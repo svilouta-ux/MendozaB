@@ -1,0 +1,52 @@
+
+    body {
+      background-color: lightslategrey;  
+      font-family: Comic Sans MS; 
+      margin: 0;
+    }
+
+   
+    header {
+      background-color: navy;  
+      color: purple;
+      padding: 10px;
+    }
+
+    
+    header img {
+      width: 60px;
+      vertical-align: middle;  
+      margin-right: 20px;      
+    }
+
+    
+    nav {
+      display: inline-block;  
+    }
+
+    nav a {
+      color: white;           
+      text-decoration: none;  
+      margin: 0 15px;         
+      font-size: 18px;
+    }
+
+    
+    nav a:hover {
+      color: brown;         
+    }
+
+   
+    main {
+      margin: 20px;           
+      font-family: "Georgia", serif; 
+    }
+
+   
+    footer {
+      background-color: darkblue; 
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
